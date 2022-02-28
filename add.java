@@ -12,5 +12,6 @@ public class ADD {
         System.out.println("Enter the first number:");
         b=in.nextInt();
         System.out.printf("The Answer is %d\n",a+b);
+        System.out.println("thank you\n");
     }
 }
